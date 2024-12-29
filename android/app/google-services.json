@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308961999332",
+    "project_id": "payment-stripe-webservice",
+    "storage_bucket": "payment-stripe-webservice.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308961999332:android:f8d6d270ae054cba7c6ff1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_payment_gateaway_stripe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8-eMlc0_hsaPFRYuL81qMwpTWYPPhyJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
